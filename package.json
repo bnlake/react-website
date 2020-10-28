@@ -1,0 +1,20 @@
+{
+  "name": "react-website",
+  "version": "1.0.0",
+  "description": "Demonstrating my uses of react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bnlake/react-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bnlake/react-website/issues"
+  },
+  "homepage": "https://github.com/bnlake/react-website#readme"
+}
